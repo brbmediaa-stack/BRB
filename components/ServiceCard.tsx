@@ -1,0 +1,1 @@
+// Component inlined in index.html

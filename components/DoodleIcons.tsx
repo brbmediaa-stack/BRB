@@ -1,0 +1,1 @@
+// SVGs inlined in index.html
